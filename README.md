@@ -3,7 +3,7 @@
 # Intro
 Hola 👋 mi nombre es Felix Wong, y estoy cursando el bootcamp Henry - Data Science.
 
-En este proyecto (PI03) vamos a desarrollar un proyecto desde el rol de Data Analyst, en el cual tenemos como objetivo analizar información de plataformas MOOCs (Coursera, Udemy, Edx), complementarla con datos externos que podamos obtener, y presentar un análsis para hallar insights e información relevante de cara a posibles inversores en una nueva plataforma. 
+En este proyecto (PI03) vamos a desarrollar un proyecto desde el rol de Data Analyst, en el cual tenemos como objetivo analizar información de plataformas MOOCs (Coursera, Udemy, Edx), complementarla con datos externos que podamos obtener, y presentar un análisis para hallar insights e información relevante de cara a posibles inversores en una nueva plataforma. 
 
 Nuestra misión es ayudar a estas inversores en direccionar de mejor manera sus esfuerzo para tener resultados rápidamente.
 
