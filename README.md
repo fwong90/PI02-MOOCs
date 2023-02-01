@@ -10,7 +10,7 @@ Nuestra misión es ayudar a estos inversores en direccionar de mejor manera sus 
 ## Arquitectura de solución
 ![Presentación3](https://user-images.githubusercontent.com/97036778/215948620-896ee516-acdb-4cbb-92b9-54249072f315.jpg)
 
-Para este proyecto hemos realizado el proceso EDA usando Python y para complementar los datos, hemos realizado la obtención de fuentes de datos externas usando web scrapping, directamente desde las plataformas MOOCs. Como resultado de este análisis, generaremos un Dashboard en Power BI con el cual realizaremos una presentación.
+Para este proyecto hemos realizado el proceso EDA usando Python y para complementar los datos, hemos realizado la obtención de fuentes de datos externos usando web scrapping, directamente desde las plataformas MOOCs. Como resultado de este análisis, generaremos un Dashboard en Power BI con el cual realizaremos una presentación.
 
 En el repositorio queda a disposición:
 1. EDA en ipynb
